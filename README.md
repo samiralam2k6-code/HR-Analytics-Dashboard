@@ -1,4 +1,6 @@
 ## HR Analytics Dashboard – Power BI
+## live Dashboard
+[ https://app.powerbi.com/groups/me/reports/914fc0d3-8148-4fa3-88fc-7786dd0f06d6/1741d5fadcdaa8c5aca3?experience=power-bi ]
 
 This project focuses on analyzing Human Resources (HR) data using Microsoft Power BI to gain meaningful insights into employee demographics, workforce distribution, attrition, and overall employee performance.
 
